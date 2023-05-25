@@ -11,7 +11,7 @@ resource "aws_s3_bucket" "bucket_har" {
 } 
 
 resource "aws_s3_bucket_public_access_block" "access_block" {
-  bucket = aws_s3_bucket.bucket1.id
+  bucket = aws_s3_bucket.bucket_har.id
 
   block_public_acls       = true
   block_public_policy     = true
