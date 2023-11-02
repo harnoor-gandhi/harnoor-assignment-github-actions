@@ -1,5 +1,5 @@
-owner = "tushar.pareek@cloudeq.com"
+owner = "harnoor.gandhi@cloudeq.com"
 
-name = "my-buc"
+name = "my-bucket"
 
-purpose = "Training"
+purpose = "Training an practice"
